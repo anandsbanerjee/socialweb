@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+	<filter root="/apps/webpoc">
+		<exclude pattern="/apps/webpoc/install" />
+	</filter>
+	<filter root="/apps/sling" />
+    <filter root="/etc/designs/webpoc"/>
+</workspaceFilter>
